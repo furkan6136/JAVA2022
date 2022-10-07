@@ -10,6 +10,7 @@ public class Product {
 		this.price = price;
 		this.stockAmount = stockAmount;
 		this.renk = renk;
+		
 	}
 
 	public Product() {
